@@ -39,3 +39,4 @@ for tiername,tierinfo in tierDict.items():    #ouput datastructure info
     print("products:")
     print(", ".join(tierinfo['products']))
     print("\n\n")
+
